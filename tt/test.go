@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/nsdictionary/gogo/hangul"
+	"github.com/nsdictionary/go_study/hangul"
 )
 
 func fruits() {

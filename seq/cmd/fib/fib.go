@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/nsdictionary/gogo/seq"
+	"github.com/nsdictionary/go_study/seq"
 )
 
 func main() {
